@@ -9,7 +9,7 @@ The purpose of the this program is to:
 -- email the Haskell Student Success Center when any number of conditions are 
    reached (e.g. a set number of absences, poor performance on the online homework, excessive lateness, etc...)
 -- email the student that they have been referred to the student suceess center
--- update the database indicating that the student has been referred
+-- update the database indicating that the student has been referred (probably will start with a local csv text file to store all the data)
 -- when other conditions have been reached (pre-determined by the instructor, either in a config file or a GUI)
    the system will send the instructor an email letting them know which students need to be dropped from the 
    course for excessive absences.
